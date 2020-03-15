@@ -135,7 +135,7 @@ EnitiesではBoolで表現する．
 
 
 
-##Presenter
+## Presenter
 
 Interactorからの出力をViewModel(データ構造)に変換してViewに命令を出す．
 
