@@ -33,7 +33,7 @@ final class ___VARIABLE_SceneName___Interactor: ___VARIABLE_SceneName___Interact
     // privateメソッドは極力定義しないように心がける．
     
     // アプリケーションロジックは少ない記述になるように心がける．
-    // Entitiesとして，あ汎用的な処理やバリデーション，制約などを表現するよう努力すること．
+    // Entitiesとして，汎用的な処理やバリデーション，制約などを表現するよう努力すること．
     // そのため，Interactor内ではprivateメソッドは極力定義しないように心がける．
     
     // 例: (ログインボタンをタップしたイベントに対応)
