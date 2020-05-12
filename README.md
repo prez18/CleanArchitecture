@@ -8,7 +8,7 @@ Clean ArchitectureのiOS実装のFileTemplateを実装した．
 
 SwiftUIではなく，UIViewControllerに対応したものである．
 
-実装例は，サンプルプロジェクトを確認すること． 
+実装例は，サンプルプロジェクトを確認のこと． 
 
 
 
